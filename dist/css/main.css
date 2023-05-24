@@ -25,7 +25,7 @@
 }
 .btn-dark {
   color: #f4f4f4;
-  background-color: #333;
+  background-color: #121212;
 }
 
 button[class^="btn-"]:hover,
@@ -611,6 +611,10 @@ img {
   #header-home .header-content h1 {
     font-size: 2rem;
   }
+}
+
+#work-a .source-p {
+  margin-right: 5px;
 }
 
 /*# sourceMappingURL=main.css.map */
